@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#clock-container {
+  font-size: 4rem;
+  color: #00ffcc;
+  background: #000;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #00ffcc;
+}
+
+
