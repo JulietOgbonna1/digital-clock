@@ -9,11 +9,11 @@ body {
 
 #clock-container {
   font-size: 4rem;
-  color: #00ffcc;
+  color: #ff00bf;
   background: #000;
   padding: 20px 40px;
   border-radius: 10px;
-  box-shadow: 0 0 20px #00ffcc;
+  box-shadow: 0 0 20px #ff00b3;
 }
 
 
